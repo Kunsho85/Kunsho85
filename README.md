@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kunsho85
 - 👀 I’m interested in Web Design and NFTs
 - 🌱 I’m currently learning HTML, CSS.
-- 💞️ I’m looking to collaborate on group projects for Front End
+- 💞️ I’m looking to collaborate on group projects and collaborations in Frontend space  
 - 📫 You can reach me using my e-mail jskform@gmail.com
 
 <!---
