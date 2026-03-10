@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Design and Web3
 - 🌱 In process of constant learning of front-end languages (HTML, CSS, JS, ...) & beyond :D 
 - 💞️ I’m looking to collaborate on group projects and collaborations in Frontend space  
-- 📫 You can reach me using my e-mail jskform@gmail.com
+- 📫 You can reach me using my e-mails jskform@gmail.com / info@norva.app
 
 <!---
 Kunsho85/Kunsho85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
