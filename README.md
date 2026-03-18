@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kunsho85
 - 👀 I’m interested in Web2, Web3 and AI technology
-- 🌱 In process of constant learning of program languages
+- 🌱 In process of constant learning program languages
 - 📫 You can reach me using my e-mails jskform@gmail.com / info@norva.app
 
 <!---
